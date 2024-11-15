@@ -1,5 +1,4 @@
 # Belajar GitHub dan Upload Tugas
-# Implementation Metaflow untuk Flow Berkuliah di Informatika UMS
 
 Repository ini dibuat sebagai bagian dari pembelajaran menggunakan Git dan GitHub. Di dalam repository ini, terdapat beberapa contoh tugas dan latihan yang dapat membantu memahami cara kerja GitHub untuk pengelolaan versi dan kolaborasi.
 
@@ -33,3 +32,19 @@ Repository ini berisi berbagai latihan yang dilakukan selama proses pembelajaran
 1. **Clone repository ini ke komputer lokal**  
    ```bash
    git clone https://github.com/username/nama-repository.git
+
+# Implementation Metaflow untuk Flow Berkuliah di Informatika UMS
+Penjelasan Tiap Langkah
+   1. start: Memulai alur akademik dengan pengenalan awal.
+   2. pmb: Tahap Pengenalan Mahasiswa Baru (PMB).
+   3. krs_planning: Tahap pengisian Kartu Rencana Studi (KRS) untuk memulai semester.
+   4. semester_journey: Mengikuti alur perkuliahan di setiap semester, termasuk perkuliahan, UTS, proyek/praktikum, dan UAS. Mahasiswa diminta untuk menginput nilai IP setiap semester.
+   5. skripsi_ta: Tahap Skripsi atau Tugas Akhir (TA). Jika mahasiswa tidak lulus, akan mengulangi proses ini.
+   6. graduation: Menghitung IPK (rata-rata nilai IP dari semua semester) dan persiapan untuk wisuda.
+   7. end: Menyelesaikan alur perkuliahan.
+   8. Menjalankan Flow
+   9.Untuk menjalankan flow, simpan kode ini dalam file Python dan jalankan dengan perintah berikut di terminal:
+
+      python nama_file.py
+      
+      Flow akan meminta input nilai IP setiap semester dan konfirmasi kelulusan Skripsi/TA, dan di akhir akan menampilkan IPK final mahasiswa.
