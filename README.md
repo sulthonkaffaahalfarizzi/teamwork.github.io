@@ -6,6 +6,7 @@ Repository ini dibuat sebagai bagian dari pembelajaran menggunakan Git dan GitHu
 - [Tentang Repository](#tentang-repository)
 - [Tujuan Pembelajaran](#tujuan-pembelajaran)
 - [Struktur Folder](#struktur-folder)
+- [Flow Metaflow Informatika UMS](#flow-metaflow-informatika-ums)
 - [Cara Menggunakan](#cara-menggunakan)
 - [Kontribusi](#kontribusi)
 
@@ -28,23 +29,18 @@ Repository ini berisi berbagai latihan yang dilakukan selama proses pembelajaran
 - `/tugas`: Folder khusus untuk menyimpan tugas yang di-upload ke GitHub.
 - `README.md`: File ini berisi panduan dan informasi tentang repository.
 
-## Cara Menggunakan
-1. **Clone repository ini ke komputer lokal**  
-   ```bash
-   git clone https://github.com/username/nama-repository.git
+## Flow Metaflow Informatika UMS
+### Penjelasan Tiap Langkah
+1. **start**: Memulai alur akademik dengan pengenalan awal.
+2. **pmb**: Tahap Pengenalan Mahasiswa Baru (PMB).
+3. **krs_planning**: Tahap pengisian Kartu Rencana Studi (KRS) untuk memulai semester.
+4. **semester_journey**: Mengikuti alur perkuliahan di setiap semester, termasuk perkuliahan, UTS, proyek/praktikum, dan UAS. Mahasiswa diminta untuk menginput nilai IP setiap semester.
+5. **skripsi_ta**: Tahap Skripsi atau Tugas Akhir (TA). Jika mahasiswa tidak lulus, akan mengulangi proses ini.
+6. **graduation**: Menghitung IPK (rata-rata nilai IP dari semua semester) dan persiapan untuk wisuda.
+7. **end**: Menyelesaikan alur perkuliahan.
 
-# Implementation Metaflow untuk Flow Berkuliah di Informatika UMS
-Penjelasan Tiap Langkah
-   1. start: Memulai alur akademik dengan pengenalan awal.
-   2. pmb: Tahap Pengenalan Mahasiswa Baru (PMB).
-   3. krs_planning: Tahap pengisian Kartu Rencana Studi (KRS) untuk memulai semester.
-   4. semester_journey: Mengikuti alur perkuliahan di setiap semester, termasuk perkuliahan, UTS, proyek/praktikum, dan UAS. Mahasiswa diminta untuk menginput nilai IP setiap semester.
-   5. skripsi_ta: Tahap Skripsi atau Tugas Akhir (TA). Jika mahasiswa tidak lulus, akan mengulangi proses ini.
-   6. graduation: Menghitung IPK (rata-rata nilai IP dari semua semester) dan persiapan untuk wisuda.
-   7. end: Menyelesaikan alur perkuliahan.
-   8. Menjalankan Flow
-   9.Untuk menjalankan flow, simpan kode ini dalam file Python dan jalankan dengan perintah berikut di terminal:
+### Menjalankan Flow
+Untuk menjalankan flow, simpan kode Python ini di file bernama `Informatic_Student_College_UMS.py`. Jalankan dengan perintah berikut di terminal:
 
-      python nama_file.py
-      
-      Flow akan meminta input nilai IP setiap semester dan konfirmasi kelulusan Skripsi/TA, dan di akhir akan menampilkan IPK final mahasiswa.
+```bash
+python Informatic_Student_College_UMS.py
