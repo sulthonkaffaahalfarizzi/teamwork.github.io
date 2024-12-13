@@ -1,5 +1,5 @@
-
-
+#Project:
+[MetaFlow Project](https://github.com/ums-l200220279/ums-l200220279.github.io)
 
 # Belajar GitHub dan Upload Tugas
 
@@ -41,7 +41,7 @@ Repository ini berisi berbagai latihan yang dilakukan selama proses pembelajaran
 5. **skripsi_ta**: Tahap Skripsi atau Tugas Akhir (TA). Jika mahasiswa tidak lulus, akan mengulangi proses ini.
 6. **graduation**: Menghitung IPK (rata-rata nilai IP dari semua semester) dan persiapan untuk wisuda.
 7. **end**: Menyelesaikan alur perkuliahan.
-[MetaFlow_Informatic_Student_College_UMS](https://github.com/ums-l200220279/ums-l200220279.github.io/blob/main/Informatic_Student_College_UMS.py)
+
 ### Menjalankan Flow
 Untuk menjalankan flow, simpan kode Python ini di file bernama `Informatic_Student_College_UMS.py`. Jalankan dengan perintah berikut di terminal:
 
