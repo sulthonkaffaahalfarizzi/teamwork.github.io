@@ -1,3 +1,6 @@
+Project:
+[Informatic_Student_College_UMS](https://github.com/ums-l200220279/ums-l200220279.github.io/blob/main/Informatic_Student_College_UMS.py)
+
 # Belajar GitHub dan Upload Tugas
 
 Repository ini dibuat sebagai bagian dari pembelajaran menggunakan Git dan GitHub. Di dalam repository ini, terdapat beberapa contoh tugas dan latihan yang dapat membantu memahami cara kerja GitHub untuk pengelolaan versi dan kolaborasi.
