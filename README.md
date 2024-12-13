@@ -1,4 +1,4 @@
-# Github :[Github](https://github.com/ums-l200220279/ums-l200220279.github.io/)
+# [Github](https://github.com/ums-l200220279/ums-l200220279.github.io/)
 # Project:
 1. [MetaFlow Project:Informatic_Student_College_UMS](https://github.com/ums-l200220279/ums-l200220279.github.io/blob/main/Informatic_Student_College_UMS.py)
 2. [MetaFlow Project:Flow_Kuliah](https://github.com/ums-l200220279/ums-l200220279.github.io/blob/main/Flow_Kuliah.py)
