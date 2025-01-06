@@ -1,7 +1,9 @@
 # [Github](https://github.com/ums-l200220279/ums-l200220279.github.io/)
-# Project:
-1. [MetaFlow Project:Informatic_Student_College_UMS](https://github.com/ums-l200220279/ums-l200220279.github.io/blob/main/Informatic_Student_College_UMS.py)
-2. [MetaFlow Project:Flow_Kuliah](https://github.com/ums-l200220279/ums-l200220279.github.io/blob/main/Flow_Kuliah.py)
+
+## Project:
+1. [MetaFlow Project: Informatic_Student_College_UMS](https://github.com/ums-l200220279/ums-l200220279.github.io/blob/main/Informatic_Student_College_UMS.py)
+2. [MetaFlow Project: Flow_Kuliah](https://github.com/ums-l200220279/ums-l200220279.github.io/blob/main/Flow_Kuliah.py)
+
 # Belajar GitHub dan Upload Tugas
 
 Repository ini dibuat sebagai bagian dari pembelajaran menggunakan Git dan GitHub. Di dalam repository ini, terdapat beberapa contoh tugas dan latihan yang dapat membantu memahami cara kerja GitHub untuk pengelolaan versi dan kolaborasi.
@@ -34,6 +36,7 @@ Repository ini berisi berbagai latihan yang dilakukan selama proses pembelajaran
 - `README.md`: File ini berisi panduan dan informasi tentang repository.
 
 ## Flow Metaflow Informatika UMS
+
 ### Penjelasan Tiap Langkah
 1. **start**: Memulai alur akademik dengan pengenalan awal.
 2. **pmb**: Tahap Pengenalan Mahasiswa Baru (PMB).
