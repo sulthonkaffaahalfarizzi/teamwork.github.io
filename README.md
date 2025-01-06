@@ -50,4 +50,4 @@ Repository ini berisi berbagai latihan yang dilakukan selama proses pembelajaran
 Untuk menjalankan flow, simpan kode Python ini di file bernama `Informatic_Student_College_UMS.py`. Jalankan dengan perintah berikut di terminal:
 
 ```bash
-python Informatic_Student_College_UMS.py
+python Informatic_Student_College_UMS.py```
