@@ -5,20 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Belajar GitHub dan Upload Tugas</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
         /* Global Styles */
         body {
             font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 0;
-            background: #f2f2f2;
+            background: linear-gradient(to right, #2c3e50, #4ca1af);
             color: #333;
             line-height: 1.6;
         }
 
         h1, h2, h3 {
-            color: #333;
-            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+            color: #fff;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
         }
 
         a {
@@ -34,16 +35,16 @@
 
         /* Header Styles */
         header {
-            background: #2c3e50;
+            background: rgba(0, 0, 0, 0.8);
             padding: 50px 20px;
             text-align: center;
             color: #fff;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
             border-bottom: 5px solid #ff5733;
         }
 
         header h1 {
-            font-size: 3rem;
+            font-size: 3.5rem;
             margin: 0;
             animation: slideIn 1s ease-out;
         }
@@ -53,7 +54,7 @@
             background: #34495e;
             padding: 15px 0;
             text-align: center;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
             position: sticky;
             top: 0;
             z-index: 1000;
@@ -63,7 +64,7 @@
             color: #fff;
             font-size: 1.1rem;
             padding: 12px 25px;
-            margin: 0 20px;
+            margin: 0 10px;
             border-radius: 30px;
             transition: all 0.3s ease;
         }
@@ -79,9 +80,9 @@
             max-width: 1200px;
             margin: 40px auto;
             padding: 30px;
-            background: #fff;
+            background: rgba(255, 255, 255, 0.9);
             border-radius: 15px;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
         }
 
         section {
@@ -92,13 +93,6 @@
             font-size: 2.5rem;
             margin-bottom: 20px;
             text-align: center;
-            color: #333;
-        }
-
-        h3 {
-            font-size: 1.6rem;
-            margin-top: 20px;
-            color: #333;
         }
 
         ul {
@@ -136,14 +130,32 @@
             word-wrap: break-word;
         }
 
+        /* Card Styles */
+        .card {
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s;
+        }
+
+        .card:hover {
+            transform: translateY(-10px);
+        }
+
         /* Footer Styles */
         footer {
-            background: #34495e;
+            background: rgba(0, 0, 0, 0.8);
             color: #fff;
             text-align: center;
             padding: 20px;
             margin-top: 40px;
             border-top: 5px solid #ff5733;
+        }
+
+        footer p {
+            margin: 0;
+            font-size: 0.9rem;
         }
 
         /* Animations */
@@ -158,18 +170,6 @@
             }
         }
 
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(20px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-
-        /* Responsive Styles */
         @media (max-width: 768px) {
             header h1 {
                 font-size: 2.5rem;
@@ -256,26 +256,4 @@
         </ul>
 
         <h3>Menjalankan Flow</h3>
-        <p>Untuk menjalankan flow, simpan kode Python ini di file bernama <code>Informatic_Student_College_UMS.py</code>. Jalankan dengan perintah berikut di terminal:</p>
-        <pre><code>python Informatic_Student_College_UMS.py</code></pre>
-    </section>
-
-    <section id="cara-menggunakan">
-        <h2>Cara Menggunakan</h2>
-        <p>Untuk memulai, lakukan clone repository ini ke komputer lokal Anda:</p>
-        <pre><code>git clone https://github.com/ums-l200220279/ums-l200220279.github.io.git</code></pre>
-        <p>Setelah itu, buka folder yang berisi file <code>Informatic_Student_College_UMS.py</code> dan jalankan kode tersebut sesuai dengan instruksi di atas.</p>
-    </section>
-
-    <section id="kontribusi">
-        <h2>Kontribusi</h2>
-        <p>Jika Anda ingin berkontribusi pada proyek ini, Anda dapat melakukan fork repository ini, membuat perubahan di branch Anda, dan kemudian mengajukan pull request. Pastikan untuk mengikuti aturan dan konvensi yang ada.</p>
-    </section>
-</main>
-
-<footer>
-    <p>&copy; 2025 Belajar GitHub dan Upload Tugas</p>
-</footer>
-
-</body>
-</html>
+        <p>Untuk menjalankan flow, simpan kode Python ini di file bernama <code>Informatic_Student_College_UMS.py</code>. Jalankan dengan per
